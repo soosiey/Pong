@@ -5,3 +5,5 @@ Implementation of Pong using Unity. Basic game is finished, with the ability to 
 Current AI scheme just follows the y coordinate of the ball.
 
 Ball gets faster with every wall hit and conditionally faster on paddle hit.
+
+Check "Scenes/" to open the main game scene.
